@@ -1,0 +1,21 @@
+Pokemon Object Class Labels (Integer):
+0 - Humanoid
+1 - Dog
+2 - Cat
+3 - Bird
+4 - Fish
+5 - Snake
+6 - Frog
+7 - Mouse/Rat
+8 - Duck
+9 - Bat
+10 - Bug
+11 - Flying Bug
+12 - Worm
+13 - Dragon
+14 - Plant
+15 - Non-Organic/Real Item
+16 - Ball Shape
+17 - Mammal
+18 - Misc
+19 - Unkown
